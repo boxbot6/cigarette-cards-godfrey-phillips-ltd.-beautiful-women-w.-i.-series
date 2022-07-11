@@ -302,31 +302,31 @@ Dates: (1902-1908?), Pre - 2nd World War.
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-46-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-back.jpg">
+            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-46-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series.jpg">
             <img src="thumbnails/card-46-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-t.jpg">
             Card No. 46.
             </a>
         </td>   
         <td align="center">
-            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-47-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-back.jpg">
+            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-47-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series.jpg">
             <img src="thumbnails/card-47-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-t.jpg">
             Card No. 47.
             </a>
         </td>   
         <td align="center">
-            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-48-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-back.jpg">
+            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-48-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series.jpg">
             <img src="thumbnails/card-48-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-t.jpg">
             Card No. 48.
             </a>
         </td>   
         <td align="center">
-            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-49-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-back.jpg">
+            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-49-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series.jpg">
             <img src="thumbnails/card-49-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-t.jpg">
             Card No. 49.
             </a>
         </td>   
         <td align="center">
-            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-50-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-back.jpg">
+            <a href="https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-50-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series.jpg">
             <img src="thumbnails/card-50-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-t.jpg">
             Card No. 50.
             </a>
@@ -338,13 +338,13 @@ Dates: (1902-1908?), Pre - 2nd World War.
 
 [<img src="images/card-1-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series.jpg" alt="image " width="300"/>](https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-1-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series.jpg)
 
-[Download .zip file containing all the images of the fronts of the cards (caution: large file size 25 MB)](https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/tree/main/downloads)
+[Download .zip file containing all the front images of the cards (caution: large file size 25 MB)](https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/tree/main/downloads)
 
 <br />
 
 [<img src="images/card-1-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-back.jpg" alt="image " width="300"/>](https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/blob/main/images/card-1-godfrey-phillips-cigarette-cards-beautiful-women-w.-i.-series-back.jpg)
 
-[Download .zip file containing all the images of the numbered backs of the cards (caution: large file size 25 MB)](https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/tree/main/downloads)
+[Download .zip file containing all the numbered back images of the cards (caution: large file size 25 MB)](https://github.com/boxbot6/cigarette-cards-godfrey-phillips-ltd.-beautiful-women-w.-i.-series/tree/main/downloads)
 
 <br />
 
